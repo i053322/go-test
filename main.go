@@ -2,7 +2,7 @@ import (
   "fmt"
 )  
 
-func hello() {
+func hello24() {
   fmt.Sprintf("hello test")
 }
 func main() {
